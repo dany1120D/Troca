@@ -1,0 +1,3 @@
+EscribiendoBuffer$acciones
+EscribiendoBuffer
+escribirBufferT
