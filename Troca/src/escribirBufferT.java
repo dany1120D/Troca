@@ -49,6 +49,9 @@ class EscribiendoBuffer{
         acciones Atrokas=new acciones();
         Atrokas.escribir(listaTrocas);
         
+        List<Trocon> listaleida= Atrokas.leerArchivo();
+        listaleida.forEach(trocas -> System.out.println(trocas.getNombre()));
+        
         
         
        

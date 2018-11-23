@@ -1,3 +1,0 @@
-EscribiendoBuffer$acciones
-EscribiendoBuffer
-escribirBufferT
